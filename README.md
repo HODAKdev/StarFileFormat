@@ -1,11 +1,12 @@
 ![](/images/structure.png)
 ## Introduction
-A simple example of how to create your own file format with compression support.
+A simple example of how to create your own archive file format.
 ## Features
 Compress files \
 Decompress files \
 CRC32 Check \
-High Thread Priority
+High Thread Priority \
+Taskbar Progress Bar
 ## Start
 ```
 StarFileFormat.exe --help
