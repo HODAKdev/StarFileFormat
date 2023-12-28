@@ -1,6 +1,14 @@
+![](/images/structure.png)
 ## Introduction
 ## Features
-
+Compress files
+Decompress files
+CRC32 Check
+High Thread Priority
+## Start
+```
+StarFileFormat.exe --help
+```
 ## Build
 - Visual Studio 2022
 - Windows SDK Version: 10.0 (latest installed version)
