@@ -1,9 +1,10 @@
 ![](/images/structure.png)
 ## Introduction
+A simple example of how to create your own file format with compression support.
 ## Features
-Compress files
-Decompress files
-CRC32 Check
+Compress files \
+Decompress files \
+CRC32 Check \
 High Thread Priority
 ## Start
 ```
