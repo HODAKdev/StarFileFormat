@@ -1,3 +1,5 @@
+![](/images/logo.png)
+## Structure
 ![](/images/structure.png)
 ## Introduction
 A simple example of how to create your own archive file format.
