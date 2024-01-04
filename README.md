@@ -1,4 +1,4 @@
-![](/images/logo.png)
+![](/images/128px.png)
 ## Structure
 ![](/images/structure.png)
 ## Introduction
